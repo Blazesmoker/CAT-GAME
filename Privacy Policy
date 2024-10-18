@@ -1,10 +1,16 @@
 Privacy Policy
-Last modified: February 17, 2024
+Last modified: October 18, 2024
 
 Our app values user privacy and is committed to enhancing the app's user experience.
 
 Data Collection:
-Our app does not collect any personal or sensitive information from users.
+Our app integrates Unity Ads to serve advertisements. Unity Ads may collect certain information from users, including:
+
+Device Information. Such as device model, operating system, unique device identifiers, and network information.
+Usage Data. Interaction with advertisements, in-app purchases, and other engagement metrics.
+Location Data. General geographic location based on IP address.
+Advertising Data. Advertisements viewed and interacted with.
+This information is used to provide personalized ads and improve ad performance. For more details on Unity Ads' data collection practices, please refer to Unity's Privacy Policy.
 
 Changes to This Privacy Statement
 Our Privacy Statement may undergo periodic updates. We recommend checking this page regularly for any modifications. Notice of changes will be provided by posting the updated Privacy Statement on this page. These changes take effect immediately upon publication.
